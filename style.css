@@ -1,0 +1,72 @@
+.container{
+    display: grid;
+    grid-template-columns: repeat (3, 100px);
+    grid-gap: 10px;
+    justify-content: center;
+}
+
+.square1{
+    width:120px;
+    height:120px;
+    border:solid 1px;
+    border-color: brown;
+}
+
+.square2{
+    width:120px;
+    height:120px;
+    border:solid 1px;
+    border-color: brown;
+}
+
+.square3{
+    width:120px;
+    height:120px;
+    border:solid 1px;
+    border-color: brown;
+}
+
+.square4{
+    width:120px;
+    height:120px;
+    border:solid 1px;
+    border-color: brown;
+}
+
+.square5{
+    width:120px;
+    height:120px;
+    border:solid 1px;
+    border-color: brown;
+}
+
+.square6{
+    width:120px;
+    height:120px;
+    border:solid 1px;
+    border-color: brown;
+}
+
+.square7{
+    width:120px;
+    height:120px;
+    border:solid 1px;
+    border-color: brown;
+}
+
+.square8{
+    width:120px;
+    height:120px;
+    border:solid 1px;
+    border-color: brown;
+}
+
+.square9{
+    width:120px;
+    height:120px;
+    border:solid 1px;
+    border-color: brown;
+}
+
+
+
